@@ -37,6 +37,10 @@ git clone https://github.com/FSecureLABS/awspx.git
 cd awspx && ./INSTALL
 ```
 
+## Installation on Mac M1
+
+Use `INSTALL build` to build the Docker container locally
+
 ## Usage 
 
 **awspx** consists of two main components: the [**ingestor**](https://github.com/FSecureLABS/awspx/wiki/Data-Collection#ingestion), *which collects AWS account data*; and the [**web interface**](https://github.com/FSecureLABS/awspx/wiki/Data-Exploration#overview), *which allows you to explore it*. 
